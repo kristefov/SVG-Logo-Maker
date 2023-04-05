@@ -11,9 +11,9 @@
 ## License
  * This application is covered under: [MIT License](https://choosealicense.com/licenses/mit)
 ## Description
-This is a professional SVG-Logo generator , which will generate a professional Logo.svg file based on the user input.
+This is a professional SVG-Logo generator command prompt application, which will generate a professional Logo.svg file based on the user input.
 ## Installation
-* You will need to run this command to install the application.
+* You will need to run this command to install the application and dependencies.
 ```
 npm install
 ```
@@ -45,5 +45,5 @@ https://github.com/kristiyantefov/SVG-Logo-Maker
 Link to Video Tutorial:
 * click on the image to open the video tutorial
 
-[<img src="./images/cover.png" width="50%">](https://)
+[<img src="./images/SVG-Logo-Maker.png" width="50%">](https://drive.google.com/file/d/1vMS3BybLl7ypFnMPQamm1ncDs6lsTyFO/view?usp=sharing)
 
