@@ -34,13 +34,13 @@ For and suggestions or contributions you can reach me at my email address or you
 
 ## Questions
 * Reach me here on my GitHub account.
-[kristiyantefov](https://github.com/kristiyantefov) 
+[kristiyantefov](https://github.com/kristefov) 
 * Reach me on my email address for additional questions.
 kristiyan.tefov@icloud.com
 ## Link
 Link to repository:
 
-https://github.com/kristiyantefov/SVG-Logo-Maker
+https://github.com/kristefov/SVG-Logo-Maker
 
 Link to Video Tutorial:
 * click on the image to open the video tutorial
